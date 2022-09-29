@@ -1,0 +1,23 @@
+<b>Home Component</b>
+
+<div class="container">
+
+    <div style="flex:1; margin: 5px;">
+        <div>
+            <ul>
+                <li style="margin:5px" *ngFor="let stock of selectStock | async">
+                    {{stock.name}}
+                    <button (click)="removeStock(stock.id)" style="float: right;">
+                        X
+                    </button>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="flex:1">
+        <app-stock>
+
+        </app-stock>
+    </div>
+</div>
