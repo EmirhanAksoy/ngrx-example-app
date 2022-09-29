@@ -1,12 +1,14 @@
+
+ <button style="margin: 5px;" (click)="addStock()">
+    Add Stock
+</button>
+
 <div class="container">
     <h3>
         Stock Component
     </h3>
 
-    <button style="margin: 5px;" (click)="addStock()">
-        Add Stock
-    </button>
-
+   
     <div>
         <ul>
             <li style="margin:5px" *ngFor="let stock of selectStock | async">
