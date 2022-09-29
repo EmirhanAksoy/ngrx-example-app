@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Test
+
+For test reflection of stocks in components please click `Add Stock` button.
+
+![image](https://user-images.githubusercontent.com/53901858/193141951-dec1d9f7-3e71-4c0a-a9fe-d8b13d5bf377.png)
+
