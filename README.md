@@ -30,5 +30,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 For test reflection of stocks in components please click `Add Stock` button.
 
-![image](https://user-images.githubusercontent.com/53901858/193141951-dec1d9f7-3e71-4c0a-a9fe-d8b13d5bf377.png)
+![image](https://user-images.githubusercontent.com/53901858/193143889-7a9913b4-ee4c-4418-a706-d7769ed8a0eb.png)
+
 
